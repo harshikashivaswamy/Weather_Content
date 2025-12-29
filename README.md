@@ -1,1 +1,2 @@
 # Weather_Content
+This project focuses on analyzing a historical weather dataset to understand temperature patterns, rainfall trends, and humidity variations. The goal is to perform data loading, cleaning, visualization, and feature engineering using Python and popular data science libraries.
